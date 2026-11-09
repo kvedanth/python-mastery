@@ -1,0 +1,9 @@
+title: My Technical Notes
+description: Personal technical notes and learning documentation
+
+theme: minima
+
+markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
